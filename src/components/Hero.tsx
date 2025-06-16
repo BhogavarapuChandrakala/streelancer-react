@@ -49,7 +49,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://st3.depositphotos.com/9880800/17247/i/450/depositphotos_172474342-stock-photo-african-american-woman-using-laptop.jpg"
+                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="Professional woman working on laptop"
                 className="rounded-2xl shadow-2xl w-full"
               />
