@@ -79,11 +79,11 @@ const Services = () => {
                 </Button>
               </div>
               
-              <div className="absolute right-4 bottom-4 w-32 h-32 rounded-xl overflow-hidden opacity-20 group-hover:opacity-30 transition-opacity duration-300">
+              <div className="absolute right-4 bottom-4 w-32 h-32 rounded-xl overflow-hidden opacity-70 group-hover:opacity-90 transition-opacity duration-300">
                 <img
                   src={service.image}
                   alt={service.title}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover brightness-75 contrast-125"
                 />
               </div>
             </div>
