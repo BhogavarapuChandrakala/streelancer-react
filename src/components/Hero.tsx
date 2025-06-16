@@ -37,12 +37,16 @@ const Hero = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
-                Join Academy
-              </Button>
-              <Button variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50 px-8 py-3 text-lg">
-                Explore Jobs
-              </Button>
+              <Link to="/academy">
+                <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
+                  Join Academy
+                </Button>
+              </Link>
+              <Link to="/jobs">
+                <Button variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50 px-8 py-3 text-lg">
+                  Explore Jobs
+                </Button>
+              </Link>
             </div>
           </div>
 
