@@ -37,23 +37,19 @@ const Hero = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <Link to="/academy">
-                <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
-                  Join Academy
-                </Button>
-              </Link>
-              <Link to="/jobs">
-                <Button variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50 px-8 py-3 text-lg">
-                  Explore Jobs
-                </Button>
-              </Link>
+              <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
+                Join Academy
+              </Button>
+              <Button variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50 px-8 py-3 text-lg">
+                Explore Jobs
+              </Button>
             </div>
           </div>
 
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://st3.depositphotos.com/9880800/17247/i/450/depositphotos_172474342-stock-photo-african-american-woman-using-laptop.jpg"
+                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="Professional woman working on laptop"
                 className="rounded-2xl shadow-2xl w-full"
               />

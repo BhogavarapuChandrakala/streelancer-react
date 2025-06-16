@@ -8,7 +8,7 @@ const CareerSections = () => {
       description: "Comprehensive guides and resources to help you navigate your career journey with confidence",
       bgColor: "bg-gradient-to-r from-pink-400 to-pink-300",
       textColor: "text-white",
-      image: "https://media.istockphoto.com/id/613241758/photo/young-woman-working-on-a-laptop.jpg?s=612x612&w=0&k=20&c=B3WbJ7VFEr77G0T698I0WMkM5LOV-pMrLCljEEJGh-o=",
+      image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       buttonText: "Explore Resources"
     },
     {
@@ -16,7 +16,7 @@ const CareerSections = () => {
       description: "Specialized programs and opportunities designed for experienced professionals looking to restart their careers",
       bgColor: "bg-slate-600",
       textColor: "text-white",
-      image: "https://t3.ftcdn.net/jpg/03/36/05/86/360_F_336058687_NP3DNy2ZUlIP7niM0NaFnTLglY50hqiu.jpg",
+      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       buttonText: "Learn More"
     },
     {
@@ -24,7 +24,7 @@ const CareerSections = () => {
       description: "Creating inclusive opportunities and safe spaces for LGBTQIA+ professionals to thrive in their careers",
       bgColor: "bg-teal-600",
       textColor: "text-white",
-      image: "https://media.istockphoto.com/id/1353371742/photo/a-young-woman-working-from-home-with-a-laptop.jpg?s=612x612&w=0&k=20&c=SRfyOMbxtrTCk-4K7403FtC3oDrIAXPqr2ttz4fzwXs=",
+      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       buttonText: "Join Community"
     },
     {
@@ -40,7 +40,7 @@ const CareerSections = () => {
       description: "Accessible career opportunities and supportive environment for persons with disabilities to excel professionally",
       bgColor: "bg-teal-700",
       textColor: "text-white",
-      image: "https://media.istockphoto.com/id/1079013008/photo/woman-with-disability-working.jpg?s=612x612&w=0&k=20&c=le0nepVBlrqVqPl8p17Qn4Y0H5WlPYicyB8D_go_qlc=",
+      image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
       buttonText: "Get Started"
     }
   ];
